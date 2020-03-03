@@ -1,4 +1,4 @@
-# Predict Parkinson's disease scale using Machine Learning
+# Predict Parkinson's disease scale using Supervised Learning
 
 ## Introduction
 
