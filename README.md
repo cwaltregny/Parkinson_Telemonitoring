@@ -12,7 +12,7 @@ The goal of this project will be to predict the total UPDRS and motor UPDRS of a
 
 The dataset used here is composed of a range of biomedical voice measurements from 42 people with early-stage Parkinson's disease recruited to a six-month trial of a telemonitoring device for remote symptom progression monitoring. The recordings were automatically captured in the patient's homes.
 
-The dataset can be found in https://archive.ics.uci.edu/ml/datasets/parkinsons+telemonitoring and is taken from -- A Tsanas, MA Little, PE McSharry, LO Ramig (2009), 'Accurate telemonitoring of Parkinson’s disease progression by non-invasive speech tests', IEEE Transactions on Biomedical Engineering --
+The dataset can be found in https://archive.ics.uci.edu/ml/datasets/parkinsons+telemonitoring and is taken from -- _A Tsanas, MA Little, PE McSharry, LO Ramig (2009), 'Accurate telemonitoring of Parkinson’s disease progression by non-invasive speech tests', IEEE Transactions on Biomedical Engineering_ --
 
 ## Method
 
