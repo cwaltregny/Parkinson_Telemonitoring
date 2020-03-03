@@ -1,4 +1,4 @@
-# Predict Parkinson's disease score using Supervised Learning (Regression task)
+# Predict Parkinson's Disease score using Supervised Learning (Regression task)
 
 ## Introduction
 
